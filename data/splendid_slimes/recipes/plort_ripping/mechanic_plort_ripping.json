@@ -1,0 +1,28 @@
+{
+  "type": "splendid_slimes:plort_ripping",
+  "ingredient": {
+    "item": "splendid_slimes:plort",
+    "nbt": {
+      "plort": {
+        "id": "splendid_slimes:mechanic"
+      }
+    }
+  },
+  "results": [
+    {
+      "item": "create:andesite_alloy",
+        "count": 3,
+      "weight": 50
+    },
+        {
+      "item": "create:brass_ingot",
+        "count": 2,
+      "weight": 15
+    },
+    {
+      "item": "create:rose_quartz",
+        "count": 5,
+      "weight": 35
+    }
+  ]
+}
