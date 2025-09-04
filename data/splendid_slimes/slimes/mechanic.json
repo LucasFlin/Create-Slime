@@ -1,11 +1,11 @@
 {
   "breed": "mechanic",
-  "name": "Mechanic",
+  "name": "slime.splendid_slimes.mechanic",
   "color": "#7a5a34",
   "particle": {
     "item": "create:cogwheel"
   },
-  "diet": "Stones and Raw minerals",
+  "diet": "diet.splendid_slimes.mechanic",
   "foods": [
     { "item": "minecraft:andesite" },
     { "item": "minecraft:granite" },
